@@ -1732,7 +1732,7 @@
                             Prazzica, Zombos and Avlanitis.</p>
                     </div>
                 </div>
-                <div type="item">
+                <div type="item" feature="bandPerformance">
                     <head>ESBEKIEH GARDENS.</head>
                     <p>By kind permission of Col. W.A. Macfarlane · D.S.O. and officers, the string
                         Band of the King's Own Scottish Borderers will play the following programme
@@ -1940,13 +1940,13 @@
                         of a higher grade, most of a higher grade, most of which the mills expect to
                         sell in the local market for home consumption.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS</head>
                     <p>The Moss Liner "Khephren" sailed from Malta yesterday and is due here on
                         Saturday evening with passengers, mails and general cargo.</p>
                 </div>
                 <cb n="4"/>
-                <div type="section">
+                <div type="section" feature="notesSuez">
                     <head>NOTES FROM SUEZ.</head>
                     <div type="item">
                         <head>RAILWAY FATALITY.</head>
@@ -2320,7 +2320,7 @@
             </div>
             <pb n="4"/>
             <div type="page" n="4">
-                <div type="item">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p><hi rend="italic">(Aujourd'hui à 11h. 1/2 a.m.).</hi>
                     </p>
@@ -2378,7 +2378,7 @@
                         raison de P.T. <measure>96</measure> le pic, soit pour une somme globale de
                         L.E. <measure>67,200</measure>.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <p>NOTES ET CRITIQUES</p>
                     <p>Le Caire, Mercredi <date>11 Septembre</date>. Le taux de l'escompte libre à
@@ -3424,7 +3424,7 @@
                     </table>
                     <dateline>Alexandrie, le 12 septembre 1907</dateline>
                 </div>
-                <div type="feature" xml:id="deg-el-tdeq01">
+                <div type="section" xml:id="deg-el-tdeq01">
                     <head>To-day's Exchange Quotations</head>
                     <table rows="12" cols="3" xml:id="deg-ta-tdeq01">
                         <row role="label">
@@ -5617,7 +5617,7 @@
                         <p>The match between South Africans and M.C.C. was drawn. (<hi rend="italic"
                                 >Reuter</hi>)</p>
                     </div>
-                    <div type="item">
+                    <div type="item" feature="cottonMarket">
                         <head>THE COTTON MARKET.</head>
                         <p>KEARSLEY AND CUNNINGHAM'S WEEKLY REPORT</p>
                         <p>LIVERPOOL, <date when="1907-09-05">September 5</date>.</p>

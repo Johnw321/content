@@ -1512,7 +1512,7 @@
                         deriuers</p>
                 </div>
                 <cb n="2"/>
-                <div type="section" feature="bureauPlacement">
+                <div type="section">
                     <head>FORIEGN OFFICE VOTE. </head>
                     <head>SIR. E. GERY ON DENISHWAL. </head>
                     <head>INTERNATIONAL RELATIONS. </head>
@@ -1596,7 +1596,7 @@
                         nothing less than a bargain.</p>
                 </div>
                 <cb n="3"/>
-                <div type="section" feature="notesSudan">
+                <div type="section">
                     <head>BUSINESS PROSPECTS IN THE SUDAN.</head>
                     <head>DISAVANTAGES OF AUTOCRACY.</head>
                     <p>Under the heading of “Business Prospects in the Sudan,” we recently
@@ -1683,7 +1683,7 @@
                         [ADVT.</p>
                 </div>
                 <cb n="4"/>
-                <div type="section" feature="chroniqueFinanciere">
+                <div type="section">
                     <head>EGYPT AND FINANCE. </head>
                     <head>DANGERS OF CREDIT. </head>
                     <head>BY ARTHUR S. DELANY. </head>
@@ -1768,7 +1768,7 @@
                         Jumble Sale in I November last. </p>
                 </div>
                 <cb n="5"/>
-                <div type="section">
+                <div type="section" feature="notesOther">
                     <head>NOTES FROM BEYROUT. </head>
                     <head>NEW GOVERNOR GENERAL. </head>
                     <head>(FROM OUR OWN CORRESPONDENT.)</head>
@@ -2005,7 +2005,7 @@
                         <p>King Edward accompanied by Sir C. Har-dinge will meet the Emperor Francis
                             Joseph and Baron Aerental at Ischl on 15th instant (Reuter)</p>
                     </div>
-                    <div type="item" feature="sport">
+                    <div type="item">
                         <head>EXPLOSION OF CANNON.</head>
                         <p>Toulon, August 2.</p>
                         <p>A cannon expl oiled on board the training ship “Couronne.” Three men w^re
@@ -2098,7 +2098,7 @@
                     <p>Extras 6</p>
                     <p>Total 112</p>
                 </div>
-                <div type="article">
+                <div type="item">
                     <head>JAPAN'S "EGYPT."</head>
                     <p>The news that a Convention has been signed between Japan and Korea by which
                         the former Power practically takes over the whole of the administration of
@@ -2132,7 +2132,7 @@
                         “Gazette” from advertisers direct.</p>
                 </div>
                 <cb n="3"/>
-                <div type="article">
+                <div type="item">
                     <head>"THE HOLY GRAIL."</head>
                     <head>MYSTERIOUS DISCOVERY AT GLASTONBURY. </head>
                     <p>A strange story of a glass vessel of beautiful workmanship and supposed great
@@ -2220,7 +2220,7 @@
                     <p>30737-1</p>
                 </div>
                 <cb n="4"/>
-                <div type="article">
+                <div type="item">
                     <head>EGYPTIAN RELIGION. </head>
                     <p>There haw be&amp;i o&amp;t$8 who, before making an important speech, were
                         wont to seek inspiration from a perusal of the pages of Johnson’s
@@ -2280,7 +2280,7 @@
                     <p>“A Handbook of Egyptian Religion.” By Adblph Ermkn. Translated by A.ST
                         Griffith. (London : Archibald Constable and Co.)</p>
                 </div>
-                <div type="article">
+                <div type="item">
                     <head>A TRAGEDY OF LOVE. </head>
                     <p>In “Scarlet Azalenas” (T. Fisher Unwin), Mr. H. De Vere Stacpoole ha? given
                         us a captivating stoiy in a pretty Japanese setting. The hero is a character
@@ -2494,7 +2494,7 @@
                 <head>The Egyptian Gazette, Saturday, AUGUST 3, 1907</head>
                 <cols n="5"/>
                 <cb n="1"/>
-                <div type="section" feature="cottonMarket" xml:lang="fr">
+                <div type="section" xml:lang="fr">
                     <head>REVUE COMMERCIALE</head>
                     <div type="item">
                         <head>Coton. </head>
@@ -3619,13 +3619,11 @@
                             commercial vehicles also Apply No. 30715 "Egyptian Gazette,” Alexandria. </p>
                         <p>30715-3-1</p>
                     </div>
-                    <div type="item">
-                        <p>CHAMBRE MEUBLEE </p>
+                    <div type="item"><head>CHAMBRE MEUBLEE </head>
                         <p>avec ou sans pen-siun Rue d’Allemagne No. 26, Alexandrie. </p>
                         <p>30716-6-1</p>
                     </div>
-                    <div type="item">
-                        <p>HALL PORTER</p>
+                    <div type="item"><head>HALL PORTER</head>
                         <p>with thorough knowledge of four languages, also Arabic, wants situation
                             for next season. Apply No. 30702 “Egyptian Gazette,” Alexandria. </p>
                         <p>30702-10-4 </p>
@@ -3647,8 +3645,7 @@
                         <p>the L British Printers, Khedivial Buildings, Boulac Road, Cairo.
                             30232-9-5-908</p>
                     </div>
-                    <div type="item">
-                        <p>TOLET,</p>
+                    <div type="item"><head>TOLET,</head>
                         <p>a furnished room in an English</p>
                         <p>Family. Moderate tenns. No. 30703, “Egyptian Gazette,” Alexandria.
                             30703-6 4</p>
@@ -6133,7 +6130,7 @@
                         les ports inter-mcaliaires.</p>
                     <p>Alexandrie, le 14 juin 1907. 305X6-14*-13</p>
                 </div>
-                <div type="item" feature="claimsEstate">
+                <div type="item">
                     <head>The Egyptian Estates Limited. </head>
                     <p>NOTICE is hereby given that all powers hitherto held from the above named
                         Company by Mr. Montagu Summers have been revoked and that henceforward that

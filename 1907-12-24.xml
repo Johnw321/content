@@ -1137,7 +1137,7 @@
                     <head>BIRTH</head>
                     <p><!-- bad ocr --></p>
                 </div>
-                <div type="item">
+                <div type="item" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <p>The Moore Case</p>
                     <p>Yesterday the libel actions brought by Mr Moore against various Cairo papers
@@ -1236,22 +1236,22 @@
                         under Providence, of saving the Indian Empire from peril, was
                         enthusiastically received </p>
                     <lb/>
-                    <p>MEETING OF PARLIAMENT</p>
+                </div><div type="item">  <p>MEETING OF PARLIAMENT</p>
                     <p>(Gazette's Special Service)</p>
                     <p>London, Monday</p>
                     <p>Parliament will reassemble on the 29th of January.</p>
                     <lb/>
-                    <p>THE KHEDIVE</p>
+                </div><div type="item"> <p>THE KHEDIVE</p>
                     <p>The Khedive has ordered a six wheel automobile of 80-horse power for trips in
                         the Marient district. The firm of Lorrain Dietrich will make it.</p>
                     <p><!-- illegible ocr --></p>
                     <lb/>
-                    <p>IMPORT OF SPECIE</p>
+                </div><div type="item">    <p>IMPORT OF SPECIE</p>
                     <p>The imports of specie to Egypt between December 13 and 21 amounted to L E
                         42,946. including 5.600 Maria Teresa dollars, and the exports of the country
                         to LE. 2,041 </p>
                     <lb/>
-                    <p>LUXOR NOTES</p>
+                </div><div type="item" feature="notesLuxor">    <p>LUXOR NOTES</p>
                     <p>(From Our Own Correspondent)</p>
                     <p>Luxor, 19th December</p>
                     <p>Great interest is felt by everyone here in the French journalists, who came
@@ -1435,7 +1435,7 @@
                     <p>Other evidence was called, and a decree nisi, with cost», and the custody ot
                         the children was granted </p>
                 </div>
-                <div type="item">
+                <div type="item" feature="notesSuez">
                     <head>NOTES FROM SUEZ</head>
                     <lb/>
                     <p>ARRIVAL OF MAHMAL</p>
@@ -1552,7 +1552,7 @@
                     <p>MODERATE PRICES</p>
                 </div>
                 <cb n="6"/>
-                <div type="section">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL.</head>
                     <p>Lord and Lady Cromer left London on Sunday last to spend Christmas in
                         Scotland. </p>
@@ -1736,7 +1736,7 @@
                     <p>BUDAPEST, December 23, Messrs. Wekerle and Poioni fought a duel with swords,
                         after two rounds they shook hands. (Havas)</p>
                 </div>
-                <div type="section">
+                <div type="section" feature="visitList">
                     <head>VISITORS LIST.</head>
                     <p>LUXOR WINTER PALACE</p>
                     <p>The latest arrivals at the Luxor Winter Palace include : Mr. and Mrs.

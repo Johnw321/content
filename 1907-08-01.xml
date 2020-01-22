@@ -1228,13 +1228,11 @@
                             commercial vehicles also Apply No. 30715 "Egyptian Gazette,” Alexandria. </p>
                         <p>30715-3-1</p>
                     </div>
-                    <div type="item">
-                        <p>CHAMBRE MEUBLEE </p>
+                    <div type="item"><head>CHAMBRE MEUBLEE </head>
                         <p>avec ou sans pen-siun Rue d’Allemagne No. 26, Alexandrie. </p>
                         <p>30716-6-1</p>
                     </div>
-                    <div type="item">
-                        <p>HALL PORTER</p>
+                    <div type="item"><head>HALL PORTER</head>
                         <p>with thorough knowledge of four languages, also Arabic, wants situation
                             for next season. Apply No. 30702 “Egyptian Gazette,” Alexandria. </p>
                         <p>30702-10-4 </p>
@@ -1256,8 +1254,7 @@
                         <p>the L British Printers, Khedivial Buildings, Boulac Road, Cairo.
                             30232-9-5-908</p>
                     </div>
-                    <div type="item">
-                        <p>TOLET,</p>
+                    <div type="item"><head>TOLET,</head>
                         <p>a furnished room in an English</p>
                         <p>Family. Moderate tenns. No. 30703, “Egyptian Gazette,” Alexandria.
                             30703-6 4</p>
@@ -1270,7 +1267,7 @@
                     <p>Alexandria, July 31st 1907</p>
                     <p>30178 1</p>
                 </div>
-                <div type="item" feature="notesSudan">
+                <div type="item">
                     <head>Sudan Government. </head>
                     <head>Notice. </head>
                     <p>Persons importing Bgyptian Labourers to work in the Soden are recommended to
@@ -1790,7 +1787,7 @@
                         of patriotism’.”</p>
                 </div>
                 <cb n="2"/>
-                <div type="section" feature="bureauPlacement">
+                <div type="section" >
                     <head>THE KING AND LORD CROMER. </head>
                     <head>MESSAGE TO PARLIAMENT . </head>
                     <p>As announced in our cable of the 25th the message from the throne expressing
@@ -1878,7 +1875,7 @@
                     </p>
                 </div>
                 <cb n="3"/>
-                <div type="section" feature="nativePress">
+                <div type="section">
                     <head>ENGLISH RULE IN EGYPT. </head>
                     <head>INTERVIEW WITH HOUSNI BEY. </head>
                     <p>The following is a full account of the interview with Housni Bey by a
@@ -2270,7 +2267,7 @@
                     <p>Le tout est desavoirs’il nes’agit pas d’un simple découvert ou d’une réaction
                         passa- gére, ou si p aIIHOEREON est appelde &amp; ce consolider. </p>
                 </div>
-                <div type="article" feature="circulaire" xml:lang="fr">
+                <div type="item" feature="circulaire" xml:lang="fr">
                     <head>Cireulaire H. De Vries et Boutigny </head>
                     <head>NOTES ET CRITIQUES</head>
                     <p>Le Caire, Mercredi 31 juillet.</p>
@@ -2365,7 +2362,7 @@
                     <p>Aujourd’hui a G hen res le grand concert vocal et instrumental dont nous
                         avons publid le programme bier.</p>
                 </div>
-                <div type="item" feature="claimsEstate">
+                <div type="item">
                     <head> The Egyptian Estates Limted. </head>
                     <p>NOTICE is hereby given that all powers hitherto held from the above named
                         Company by Mr. Montagu Summers have been revoked and that henceforward that
@@ -4850,7 +4847,7 @@
                         <p>Vancouver, July 31. Friction has arisen here through the landing of
                             numbers of Japanese from Honolulu.</p>
                     </div>
-                    <div type="item" feature="sport">
+                    <div type="item">
                         <head>CRICKET.</head>
                         <p>London, July 31.</p>
                         <p>Kent beat Derbyshire by an innings and 146 runs. Somerset beat
@@ -4892,7 +4889,7 @@
                         London, W.</p>
                 </div>
                 <cb n="2"/>
-                <div type="section" feature="wire">
+                <div type="section">
                     <head>THE NAVAL ESTIMATES. </head>
                     <p>London, July 31.</p>
                     <p>House of Commons. — Speaking on the Naval Estimates, Mr. Robertson in a
@@ -5067,7 +5064,7 @@
                     <p>Daira Prince Ahmed Seif el-Din Bey, Mohamed Aly Square</p>
                     <p>A. V. Thomson, Secretary for Egypt.</p>
                 </div>
-                <div type="article">
+                <div type="item" feature="cottonMarket">
                     <head>THE COTTON MARKET. </head>
                     <p>Kearsley and Cunningham’s Weekly Report</p>
                     <p>Liverpool, July 25.</p>
@@ -5134,7 +5131,7 @@
                         disqualified for fouling. In Class I and the Rating Class the Aiihe Marie
                         and Sans Pareille won the monthly prizes.</p>
                 </div>
-                <div type="article">
+                <div type="item">
                     <head>ONE DISAPPOINTMENT SUFFICIENT. </head>
                     <p>The grandson of a man who had befriended Russell Sage called one day, asking
                         for a loan of $10, promising that he would repay in a week’s time. Sage let

@@ -1495,9 +1495,7 @@
                 <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
-                        <head/>
-                        <p>LOCAL AND GENERAL.</p>
-                        <p>Suicide.</p>
+                         <head>Suicide.</head>
                         <p>A Greek barber, living in Sisters Street, age 50 years, committed suicide
                             by throwing himself into the sea.</p>
                     </div>
@@ -1865,7 +1863,7 @@
                         offer.</p>
                     <p>(<hi rend="italic">To be continued</hi>)</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The Ellerman liner "Britannia” sailed from Liverpool last Thursday for
                         Lisbon, Gibraltar, Malta and Alexandria with passengers and a general
@@ -1994,7 +1992,7 @@
                             Philipp, Mr. E. Levy.</p>
                     </div>
                 </div>
-                <div type="item">
+                <div type="item" feature="notesSuez">
                     <head>NOTES FROM SUEZ.</head>
                     <p>TURKISH TROOPSHIPS.</p>
                     <p>(FROM OUR OWN CORRESPONDENT).</p>
@@ -2002,10 +2000,10 @@
                     <p>The Turkish troopship "Assyr" entered the Canal yesterday afterday afternoon
                         with time-expired men, in strict quarantine. Another troopship with
                         reinforcements is expected daily at Port Said.</p>
-                    <p><hi rend="bold">Mecca Pilgrimage.</hi></p>
+                    <p>Mecca Pilgrimage.</p>
                     <p>The pilgrimage to Mecca has now begun, and in comparison large numbers of
                         foreign pilgrims are leaving weekly from Suez for Jeddah.</p>
-                    <p><hi rend="bold">Australian Moat.</hi></p>
+                    <p>Australian Moat.</p>
                     <p>The S.S. "Ailsa Craig” is now landing a full. cargo of Australian meat at
                         Suez.</p>
                 </div>
@@ -3226,7 +3224,7 @@
                     <p>LIMITED, GENERAL BANKERS. BASILDON HOUSE, BANK, LONDON, E.C.</p>
                 </div>
                 <cols n="6"/>
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <p>Circulaire H. De Vries et Boutigny</p>
                     <p>NOTES ET CRITIQUES</p>
                     <p>Le Caire, Veodredi 13 Septembre. Le taux de l'escompte libre à Londres est
@@ -4153,7 +4151,7 @@
                         </row>
                     </table>
                 </div>
-                <div type="feature" xml:id="deg-el-tdeq01">
+                <div type="section" xml:id="deg-el-tdeq01">
                     <head>To-day's Exchange Quotations</head>
                     <table rows="12" cols="3" xml:id="deg-ta-tdeq01">
                         <row role="label">

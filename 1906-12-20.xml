@@ -7,12 +7,12 @@
             <titleStmt>
                 <title level="m" type="main">Digital Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor><!-- Enter your name-->Parker Bryant</editor>
+                <editor>Parker Bryant</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2019-10-22">October 22, 2019<!-- Enter today's date --></date>
+                    <date when="2019-10-22">October 22, 2019</date>
                     <gloss>2</gloss>
                 </edition>
             </editionStmt>
@@ -1706,7 +1706,7 @@
             <div type="page" n="3">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item">
+                <div type="item" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <p>Departure of Venus.</p>
                     <p>H.M.S. Venus left Alexandria this mornin for Port Said.</p>
@@ -2143,8 +2143,7 @@
                     <p>Totalizator paid P.T. 27.</p>
                 </div>
                 <cb n="6"/>
-                <div type="item">
-                    <head>PERSONAL AND SOCIAL.</head>
+                <div type="item" feature="social">      <head>PERSONAL AND SOCIAL.</head>
                     <p>Among the latest arrivals at the Hotel d'Angleterre, Cairo, is Lord Halsbury,
                         who, accompanied by the Countess, intends to spend Christmas in Egypt in
                         order to take &amp; short respite from his laborers on the codification of
@@ -2664,7 +2663,7 @@
                         Egyptian Investment &amp; Agency</p>
                     <p>Egyptian Markets .. Egyptian Sudan Mines ...</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="visitList">
                     <head>VISITORS' LIST.</head>
                     <p>GRAND HOTEL HELOUAN. Sir Gilbert and Lady Parker, Sir Barrington and Lady
                         Simeon, Miss Ward, London ; Mrs. A. E. Seligman, Mise E. L. Seligman. Miss
@@ -2684,7 +2683,7 @@
                         Zakharyne,</p>
                     <p>Moscow,</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="passList">
                     <head>PASSENGER LISTS.</head>
                     <p>Per S.S. Hohenzollern, from Marseilles And Naples :</p>
                     <p>Dr. J. Westall Anderson, Mlle Aiday Rev. and Mrs. W. D. Bushell, Miss
@@ -2734,7 +2733,7 @@
             <div type="page" n="5">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item">
+                <div type="item" feature="exportManifests">
                     <head>EXPORT MANIFESTS,</head>
                     <p>199</p>
                     <p>80</p>
@@ -2804,7 +2803,7 @@
                     <p>544 154</p>
                     <p>68</p>
                     <p>
-                        <hi rend="italic">300</hi>
+                        300
                     </p>
                     <p>5% 135 100</p>
                     <p>54</p>
@@ -3241,7 +3240,7 @@
                     <p>La séance est levée à 7 h 1/2 p.m.</p>
                     <p>terme de terrains des quais spation décide de</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd'hui à midi et demie.) Il y a eu des affaires on peu 800 toate la
                         oote et ane reprise légère sur'an grand nombre de valears. On s'est, en
@@ -3266,7 +3265,7 @@
                         ancienne Crédit Popoier à 336, les Sacreries à 70. vendears, Is Land Bank à
                         8 11/16, les Splendid Hotels à 4 3/16, et l'Union Foncière à 6 3/16.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <head>Circulaire A. De Vries et Boutigny</head>
                     <p>NOTES ET CRITIQUES</p>
                     <p>Le Caire, Meroredi 19 Décembre 1906.</p>
@@ -6410,8 +6409,7 @@
                 </div>
             </div>
             <pb n="7"/>
-            <div type="page" n="7">
-                <div type="page" xml:id="deg-el-vmhb01">
+                <div type="page" n="7" xml:id="deg-el-vmhb01">
                     <div type="masthead">
                         <cols n="6"/>
                         <cb n="1"/>
@@ -7224,7 +7222,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
             <pb n="8"/>
             <div type="page" n="8">
                 <cols n="3"/>

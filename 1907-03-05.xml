@@ -3742,7 +3742,7 @@
             <pb n="6"/>
             <div type="page" n="6">
                 <cols n="6"/>
-                <div type="item">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd'hui à midi et domis.) La plapart des valears sac lagq otlles s'était
                         portée la spájalation ces temps derniers 80. bissent une nouvelle
@@ -3764,7 +3764,7 @@
                         aotuellement n'a rien qae de natarel et qne pour allez da moins toat fait
                         présager one reprise à bref délai.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <p>NOTES ET CRITIQUES</p>
                     <p>Le Caire, Landi 4 Mars 1907. Le taux de l'escompte libre à Londres est
@@ -6764,8 +6764,8 @@
                 </div>
             </div>
             <pb n="7"/>
-            <div type="page" n="7">
-                <div type="page" xml:id="deg-el-vmhb02">
+            
+                <div type="page" n="7" xml:id="deg-el-vmhb02">
                     <div type="masthead">
                         <cols n="3"/>
                         <cb n="1"/>
@@ -7562,7 +7562,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            
             <pb n="8"/>
             <div type="page" n="8">
                 <div type="advert" xml:id="deg-ad-hem01" xml:lang="fr">
